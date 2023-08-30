@@ -1,0 +1,26 @@
+<annotation>
+	<folder>single</folder>
+	<filename>image_052.png</filename>
+	<path>/home/lovro/Documents/dataset/dataset/other_planktons/single/image_052.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>146</width>
+		<height>104</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plankton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>17</ymin>
+			<xmax>118</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>

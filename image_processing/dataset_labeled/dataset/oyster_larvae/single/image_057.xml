@@ -1,0 +1,26 @@
+<annotation>
+	<folder>single</folder>
+	<filename>image_057.png</filename>
+	<path>/home/lovro/Documents/dataset/dataset/oyster_larvae/single/image_057.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>755</width>
+		<height>566</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oyster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>152</ymin>
+			<xmax>552</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

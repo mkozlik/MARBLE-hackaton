@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_dataset/labels</folder>
+	<filename>image_109.png</filename>
+	<path>/home/lovro/Documents/dataset/dataset/other_planktons/new_dataset/labels/image_109.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>130</width>
+		<height>70</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plankton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>15</ymin>
+			<xmax>92</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>
